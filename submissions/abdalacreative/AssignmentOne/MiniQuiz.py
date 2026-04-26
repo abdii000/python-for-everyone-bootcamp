@@ -34,6 +34,7 @@ else:
 print("Q3: What is the capital of Galguduud region?")
 answer3 = input("Your answer: ").lower()
 
+
 # Accept: dusamareb or dhuusamareeb
 if answer3 == "dusamareb" or answer3 == "dhuusamareeb":
     print("Correct!\n")
